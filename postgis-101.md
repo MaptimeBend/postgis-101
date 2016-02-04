@@ -124,7 +124,7 @@ Voila!
 
 ---
 
-![](img/random_points.png)
+![](img/postgis_add_layer.png)
 
 ---
 ---
