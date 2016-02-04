@@ -17,9 +17,11 @@ Forked from https://github.com/maptime/postgis-101/
 
 <b>Resources:</b>
 
-postGIS in Action (https://www.manning.com/books/postgis-in-action)
+[postGIS in Action] (https://www.manning.com/books/postgis-in-action)
 
-postGIS Cookbook (by Steve!) 
+[postGIS Cookbook] (https://www.packtpub.com/big-data-and-business-intelligence/postgis-cookbook) 
+
+[PostGIS Documentation] (http://postgis.net/documentation/)
 
 ==== 
 
