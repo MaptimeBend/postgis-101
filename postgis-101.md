@@ -294,7 +294,7 @@ shp2pgsql -s 3734 -d -i -I -W LATIN1 -g the_geom trail_alignment_proposed trail_
 * Add each shapefile to QGIS using the Add Layer button
 * Use the DB Manager tool to convert each layer to a PostGIS layer
 
-![](img/trail_alignment_census.png)
+![](img/trail_alignment_proposed_buffer.png)
 
 To get our demographics summarized, we need a function that calculates the proportion of each census block group that lays within our buffered trail. Fortunately, we can write that function as follows:
 
