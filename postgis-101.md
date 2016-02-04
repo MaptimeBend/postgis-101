@@ -133,7 +133,7 @@ Voila!
 ###Viewing Data in PostGIS
 
 * Launch QGIS
-* Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
+* Click on the 'Add PostGIS layer' button in the Manage Layers list
 ![](img/postgis_add_layer.png)
 * Establish a new PostGIS database connection
 ![](img/postgis_connection.png)
