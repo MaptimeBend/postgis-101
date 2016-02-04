@@ -68,10 +68,10 @@ AND city.name = 'Gotham';
 
 [pgAdmin](http://www.pgadmin.org/) is a free Open Source database management tool used to administer a PostgreSQL database instance. Let's do some basic work in it.  We'll make some random xy values and turn them into points:
 
-1) Launch pgAdmin
-2) Connect to the database you are using for this MapTime lesson
-3) Open a new SQL window
-
+1) Launch pgAdmin<br>
+2) Connect to the database you are using for this MapTime lesson<br>
+3) Open a new SQL window<br>
+![](img/pgadmin_dialog.png)
 
 ---
 ```sql
