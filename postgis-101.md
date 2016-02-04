@@ -136,7 +136,9 @@ Now how do we view our spatial data???
 
 * Launch QGIS
 * Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
+---
 !(img/postgis_add_layer.png)
+---
 * Establish a new PostGIS database connection</li>
 
 
