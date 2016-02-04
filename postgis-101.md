@@ -277,6 +277,8 @@ For this trail alignment we want to know the demographics within a mile of the t
 
 Now let's load our datasets into PostGIS.  We have a the trail alignment, trail_alignment_proposed.shp, for convenience, the buffered shape, trail_alignment_proposed_buffer.shp, and our census data that we want to summarize.
 
+There are two standard ways to load data into PostGIS: 1) use the shp2pgsql utility to load data or 2) use a PostGIS client such as QGIS.
+
 ```BASH
 shp2pgsql -s 3734 -d -i -I -W LATIN1 -g the_geom census trail_census | psql -U me -d postgis-101
 shp2pgsql -s 3734 -d -i -I -W LATIN1 -g the_geom trail_alignment_proposed_buffer trail_buffer | psql -U me -d postgis-101
@@ -284,6 +286,11 @@ shp2pgsql -s 3734 -d -i -I -W LATIN1 -g the_geom trail_alignment_proposed trail_
 ```
 
 ---
+
+<B> For the purpose of our lesson we will use QGIS</B>
+
+* Launch QGIS
+* Download 
 
 To get our demographics summarized, we need a function that calculates the proportion of each census block group that lays within our buffered trail. Fortunately, we can write that function as follows:
 
