@@ -124,11 +124,7 @@ Voila!
 
 ---
 
-![](img/postgis_add_layer.png)
-
----
-
-Now how do we view our spatial data???
+##Now how do we view our spatial data???
 
 * [QGIS](http://www.qgis.org/en/site/)
 * [ArcGIS Desktop] (http://www.esri.com/software/arcgis/arcgis-for-desktop)
