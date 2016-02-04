@@ -64,9 +64,9 @@ WHERE ST_Contains(city.geom, superhero.geom)
 AND city.name = 'Gotham';
 ```
 ---
-##Let's Use PG ADMIN
+##Let's Use pgAdmin
 
-Let's do some basic work in it.  We'll make some random xy values and turn them into points:
+[pgAdmin](http://www.pgadmin.org/) is a free Open Source database management tool used to administer a PostgreSQL database instance. Let's do some basic work in it.  We'll make some random xy values and turn them into points:
 
 ---
 ```sql
