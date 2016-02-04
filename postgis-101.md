@@ -124,21 +124,20 @@ Voila!
 
 ---
 
-![](img/random_points.png)
-
----
-Now how do we view our spatial data???
+##Now how do we view our spatial data???
 
 * [QGIS](http://www.qgis.org/en/site/)
 * [ArcGIS Desktop] (http://www.esri.com/software/arcgis/arcgis-for-desktop)
 * And more
 
+###Viewing Data in PostGIS
 
 * Launch QGIS
 * Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
-(img/Screen Shot 2016-02-04 at 1.53.35 PM.png)
-* Establish a new PostGIS database connection</li>
-
+![](img/postgis_add_layer.png)
+* Establish a new PostGIS database connection
+![](img/postgis_connection.png)
+* Connect to the database and add the new view we created named xbecausez
 
 Now if we get new points with just xyz values, but no spatial information, those will automatically become spatial!
 
