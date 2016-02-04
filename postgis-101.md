@@ -127,6 +127,9 @@ Voila!
 ![](img/random_points.png)
 
 ---
+---
+!(img/postgis_add_layer.png)
+---
 Now how do we view our spatial data???
 
 * [QGIS](http://www.qgis.org/en/site/)
@@ -136,9 +139,6 @@ Now how do we view our spatial data???
 
 * Launch QGIS
 * Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
----
-!(img/postgis_add_layer.png)
----
 * Establish a new PostGIS database connection</li>
 
 
