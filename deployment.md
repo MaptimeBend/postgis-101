@@ -7,6 +7,7 @@
  -[Mac] - use homebrew recipes
  - [Ubuntu] - sudo apt-get install
 * Build from source
-*
+
+
 ## Be Aware of Dependencies
 
