@@ -135,7 +135,9 @@ Voila!
 * Launch QGIS
 * Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
 ![](img/postgis_add_layer.png)
-* Establish a new PostGIS database connection</li>
+* Establish a new PostGIS database connection
+![](img/postgis_connection.png)
+* Connect to the database and add the new view we created named xbecausez
 
 
 Now if we get new points with just xyz values, but no spatial information, those will automatically become spatial!
