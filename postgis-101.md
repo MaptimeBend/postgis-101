@@ -127,18 +127,18 @@ Voila!
 ![](img/postgis_add_layer.png)
 
 ---
----
-!(img/postgis_add_layer.png)
----
+
 Now how do we view our spatial data???
 
 * [QGIS](http://www.qgis.org/en/site/)
 * [ArcGIS Desktop] (http://www.esri.com/software/arcgis/arcgis-for-desktop)
 * And more
 
+###Viewing Data in PostGIS
 
 * Launch QGIS
 * Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
+![](img/postgis_add_layer.png)
 * Establish a new PostGIS database connection</li>
 
 
