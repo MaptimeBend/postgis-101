@@ -139,7 +139,6 @@ Voila!
 ![](img/postgis_connection.png)
 * Connect to the database and add the new view we created named xbecausez
 
-
 Now if we get new points with just xyz values, but no spatial information, those will automatically become spatial!
 
 ---
