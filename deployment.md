@@ -10,6 +10,7 @@
  -[Ubuntu] (https://www.mapbox.com/tilemill/docs/guides/osm-bright-ubuntu-quickstart/)
 
 * Build from source
+ -[PostGIS Build From Source Instructions](http://trac.osgeo.org/postgis/wiki/UsersWikiInstall)
 
 
 ## Be Aware of Dependencies
