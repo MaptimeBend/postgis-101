@@ -5,7 +5,7 @@
   - <b>We will do this tonight</b>
 * Install from package or setup (dependent on OS)<br>
  -[Windows:] (http://postgis.net/windows_downloads/)<br>
- -[Mac] - use homebrew recipes<br>
+ -[Mac] - (http://morphocode.com/how-to-install-postgis-on-mac-os-x/)<br>
  -[Ubuntu] - sudo apt-get install
 * Build from source
 
