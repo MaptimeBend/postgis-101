@@ -290,7 +290,8 @@ shp2pgsql -s 3734 -d -i -I -W LATIN1 -g the_geom trail_alignment_proposed trail_
 <B> For the purpose of our lesson we will use QGIS</B>
 
 * Launch QGIS
-* Download 
+* Download all of [data](https://github.com/MaptimeBend/postgis-101/tree/master/data) from this lesson to your local computer.
+* Add each shapefile to QGIS
 
 To get our demographics summarized, we need a function that calculates the proportion of each census block group that lays within our buffered trail. Fortunately, we can write that function as follows:
 
