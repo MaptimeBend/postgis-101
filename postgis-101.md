@@ -64,6 +64,7 @@ WHERE ST_Contains(city.geom, superhero.geom)
 AND city.name = 'Gotham';
 ```
 ---
+##Let's Use PG ADMIN
 
 Let's do some basic work in it.  We'll make some random xy values and turn them into points:
 
