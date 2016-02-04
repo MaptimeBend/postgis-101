@@ -1,25 +1,19 @@
 postgis-101
 ===========
-This is just a place holder for some ideas that I have for an introduction for postGIS. 
 
-Assumes audience is familiar with very basic geospatial principles (rasters and vectors) but has 
-no experience with SQL. 
+Place holder for MapTimeBend PostGIS meeting.
 
-Slides for learning basic SQL and postGIS 
+Forked from https://github.com/maptime/postgis-101/
 
 =========== 
 
-- What is SQL (Databases, ugh, na na na) 
+Agenda
 
-- SELECT myawesomecolumn name FROM mytable; 
-
-- 
+1) Go through slides from maptime postgis-101 lesson
+2) Review deployment options
+3) Deschutes Open Data Portal fun
 
 ====
-
-Uses Rasters (images) and Vectors, oh my! 
-
-==== 
 
 Checkout these awesome resources: 
 
