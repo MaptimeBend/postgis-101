@@ -10,14 +10,14 @@ Forked from https://github.com/maptime/postgis-101/
 <b>Agenda</b>
 
 1) Go through slides from maptime postgis-101 lesson<br>
-2) Review deployment options<br>
+2) Review database deployment options<br>
 3) Deschutes Open Data Portal fun<br>
 
 ====
 
 <b>Resources:</b>
 
-postGIS in Action 
+postGIS in Action (https://www.manning.com/books/postgis-in-action)
 
 postGIS Cookbook (by Steve!) 
 
