@@ -5,8 +5,8 @@
   - <b>We will do this tonight</b>
 * Install from package or setup (dependent on OS)<br>
  -[Windows:] (http://postgis.net/windows_downloads/)<br>
- -[Mac] - use homebrew recipes
- - [Ubuntu] - sudo apt-get install
+ -[Mac] - use homebrew recipes<br>
+ -[Ubuntu] - sudo apt-get install
 * Build from source
 
 
