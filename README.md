@@ -7,7 +7,7 @@ Forked from https://github.com/maptime/postgis-101/
 
 =========== 
 
-Agenda
+<b>Agenda</b>
 
 1) Go through slides from maptime postgis-101 lesson
 2) Review deployment options
@@ -15,7 +15,7 @@ Agenda
 
 ====
 
-Checkout these awesome resources: 
+<b>Resources:</b>
 
 postGIS in Action 
 
