@@ -133,9 +133,9 @@ Voila!
 ###Viewing Data in PostGIS
 
 * Launch QGIS
-* Click on the 'Add PostGIS layer' button in the Manage Layers list
+* Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
 ![](img/postgis_add_layer.png)
-* Establish a new PostGIS database connection
+* Establish a new PostGIS database connection<br>
 ![](img/postgis_connection.png)
 * Connect to the database and add the new view we created named xbecausez
 
