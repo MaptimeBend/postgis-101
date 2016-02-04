@@ -115,7 +115,7 @@ And now we'll create a spatial view that makes all our xyz values into points.
 
 ```sql
 CREATE VIEW xbecausez AS
-SELECT x, y, z, ST_SetSRID(ST_MakePoint(x,y), 4326) AS geom
+SELECT gid, x, y, z, ST_SetSRID(ST_MakePoint(x,y), 4326) AS geom
 FROM xyz;
 ```
 ---
@@ -127,6 +127,16 @@ Voila!
 ![](img/random_points.png)
 
 ---
+Now how do we view our spatial data???
+
+* [QGIS](http://www.qgis.org/en/site/)
+* [ArcGIS Desktop] (http://www.esri.com/software/arcgis/arcgis-for-desktop)
+* And more
+
+1) Launch QGIS
+2) Click on the 'Add PostGIS layer' button in the Manage Layers list
+
+3) Establish a new PostGIS database connection
 
 Now if we get new points with just xyz values, but no spatial information, those will automatically become spatial!
 
