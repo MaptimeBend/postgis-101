@@ -9,9 +9,9 @@ Forked from https://github.com/maptime/postgis-101/
 
 <b>Agenda</b>
 
-1) Go through slides from maptime postgis-101 lesson
-2) Review deployment options
-3) Deschutes Open Data Portal fun
+1) Go through slides from maptime postgis-101 lesson<br>
+2) Review deployment options<br>
+3) Deschutes Open Data Portal fun<br>
 
 ====
 
