@@ -133,11 +133,12 @@ Now how do we view our spatial data???
 * [ArcGIS Desktop] (http://www.esri.com/software/arcgis/arcgis-for-desktop)
 * And more
 
-<ol>
-<li>Launch QGIS</li>
-<li>Click on the 'Add PostGIS layer' button in the Manage Layers list</li>
-<li>Establish a new PostGIS database connection</li>
-</ol>
+
+* Launch QGIS
+* Click on the 'Add PostGIS layer' button in the Manage Layers list<br>
+(img/Screen Shot 2016-02-04 at 1.53.35 PM.png)
+* Establish a new PostGIS database connection</li>
+
 
 Now if we get new points with just xyz values, but no spatial information, those will automatically become spatial!
 
